@@ -40,7 +40,7 @@ The logical steps taken for this task is:
 ### Results
 
 
-[`Interactive Map`](https://tokoth.github.io/biketestpages/interactive_map2.html)
+[`Interactive Map`](https://tokoth.github.io/biketestpages/Covid_cases.html)
 
 
 
