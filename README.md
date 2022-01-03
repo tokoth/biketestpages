@@ -2,7 +2,7 @@
 
 [![image](https://img.shields.io/twitter/follow/tyson_okoth?style=social)](https://twitter.com/tyson_okoth)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/okoth-tyson-0968a9178/)
-[![GitHub Badge](https://img.shields.io/github/followers/tokoth?style=social)](https://github.com/tokoth)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tokoth)
 
 ### About
 A  project looking into exploring, processing, cleaning, and visualizing huge open datasets, by exploring NYC Bike Share Data
