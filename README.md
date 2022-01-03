@@ -100,3 +100,7 @@ We check the CRS of our geodataframe using .crs method, which shows the EPSG cod
 ```
 
 ![Image](https://drive.google.com/uc?export=view&id=1zwrgfgcDSvmcbYABTeQIqZVyHmiOKccz)
+
+### Interactive Map
+
+<iframe src="interactive_map.html" height="500" width="500"></iframe>
