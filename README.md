@@ -101,9 +101,7 @@ We check the CRS of our geodataframe using .crs method, which shows the EPSG cod
 
 ![Image](https://drive.google.com/uc?export=view&id=1zwrgfgcDSvmcbYABTeQIqZVyHmiOKccz)
 
-### Interactive Map
+### [`Interactive Map`](https://tokoth.github.io/biketestpages/interactive_map.html)
 
 <iframe src="interactive_map.html" height="500" width="500"></iframe>
 
-
-You can explore the [interactive map](https://tokoth.github.io/biketestpages/interactive_map.html) further.
