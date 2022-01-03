@@ -52,7 +52,7 @@ Read in the downloaded data and display using Pandas.
 
   ```Python
  #Read and display the data
-     data = pd.read_csv("201812-citibike-tripdata.csv")
+    data = pd.read_csv("201812-citibike-tripdata.csv")
 ```
 
 We display the first 5 rows using head() method.
