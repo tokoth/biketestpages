@@ -74,3 +74,21 @@ Using Seaborn and matplotlib to plot and display graphs of busiest days, and top
 ![Image](https://drive.google.com/uc?export=view&id=1UoY0_zKNhcNx0AqyGRMbXc0ch5A3kSf1)
 
 ![Image](https://drive.google.com/uc?export=view&id=18LqKspwDEi6eNE-PMNzQ4wj5fmgX025p)
+
+After cleaning, grouping the data by (Station ID and Station Name) and aggregating we go ahead,and write to an output csv file.
+
+We use GeoPandas to read in the cleaned data, convert it to a geodataframe. Assign a Coordinate reference system (CRS) to our geodataframe for our mapping
+
+We display the first 5 rows using head() method, and check the CRS of our geodataframe using .crs method, which shows the EPSG code of the data.
+
+```Python
+    geodata.head()
+```
+
+![Image](https://drive.google.com/uc?export=view&id=1nhVr3_0OjZvORRTNsQnMDhIPZZRxXti5)
+
+```Python
+    print(geodata.crs)
+```
+
+![Image](https://drive.google.com/uc?export=view&id=1zwrgfgcDSvmcbYABTeQIqZVyHmiOKccz)
