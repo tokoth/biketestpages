@@ -66,6 +66,8 @@ We can get some information about the columns with the info() method.
 ```Python
     data.info()
 ```
+![Image](https://drive.google.com/uc?export=view&id=1w78j-xzkyHdq6OOc-40E9hBVGS56uUcL)
+
 The output shows the number of rows (just over a million) and the number of columns.
 
 We can now prepare the data further using Pandas and explore some descriptive information from the data. 
@@ -79,13 +81,15 @@ After cleaning, grouping the data by (Station ID and Station Name) and aggregati
 
 We use GeoPandas to read in the cleaned data, convert it to a geodataframe. Assign a Coordinate reference system (CRS) to our geodataframe for our mapping
 
-We display the first 5 rows using head() method, and check the CRS of our geodataframe using .crs method, which shows the EPSG code of the data.
+We display the first 5 rows using head() method, the geodataframe has a geometry column that allows us to plot the data to a location map.
 
 ```Python
     geodata.head()
 ```
 
 ![Image](https://drive.google.com/uc?export=view&id=1nhVr3_0OjZvORRTNsQnMDhIPZZRxXti5)
+
+We check the CRS of our geodataframe using .crs method, which shows the EPSG code of the data.
 
 ```Python
     print(geodata.crs)
