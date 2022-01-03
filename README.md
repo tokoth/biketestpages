@@ -34,6 +34,10 @@ data reading, observing, cleaning, processing and visualization of the data.
 
 Packages used was; Pandas, Seaborn, Geopandas, Matplotlib, Contextily, and Folium.
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="20" height="20"/> </a> </p>
+
+
 The logical steps taken for this task is:
 1. Download the [Citi Bike System Data](https://ride.citibikenyc.com/system-data), December data for years 2018, 2019 and 2020. 
 2. Using Pandas to read the downloaded data, observe, analyse, group(by Station name and Station id), aggregate and write to an output csv file containing the cleaned data.
