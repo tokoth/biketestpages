@@ -126,7 +126,8 @@ A Static Map plotted with Matplotlib and Contextily using information of the 201
 
 ![Image](https://drive.google.com/uc?export=view&id=1Y_ABD8DDLMuEzFMJaRdyIpNJhsgT2vtA)
 
-An Interactive map plotted with Folium showing the top bike stations used in all the processed years.
+An Interactive map plotted with Folium showing the busiest bike stations used in the years 2018, 2019 ,and 2020. 
+You can interact with the map and change the basemap as well as switch and display the interested year.
 
 <iframe src="interactive_map.html" height="500" width="800"></iframe>
 
