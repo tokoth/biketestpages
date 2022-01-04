@@ -121,7 +121,16 @@ We will use the geodataframe to plot a Static map with basemap as well as an Int
 
 <a name="Maps"></a>
 ### Maps (Static and Interactive)
+
+A Static Map plotted with Matplotlib and Contextily using information of the 2018 bike stations cleaned data.
+
+![Image](https://drive.google.com/uc?export=view&id=1Y_ABD8DDLMuEzFMJaRdyIpNJhsgT2vtA)
+
+An Interactive map plotted with Folium showing the top bike stations used in all the processed years.
+
 <iframe src="interactive_map.html" height="500" width="800"></iframe>
+
+Explore the interactive map further [here](https://tokoth.github.io/biketestpages/interactive_map.html).
 
 
 <a name="Credits"></a>
