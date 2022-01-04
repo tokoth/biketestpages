@@ -121,7 +121,7 @@ We will use the geodataframe to plot a Static map with basemap as well as an Int
 
 <a name="Maps"></a>
 ### Maps (Static and Interactive)
-A  project looking into exploring, processing, cleaning, and visu
+<iframe src="interactive_map.html" height="500" width="800"></iframe>
 
 
 <a name="Credits"></a>
